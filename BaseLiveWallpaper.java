@@ -1,9 +1,6 @@
 import java.util.Random;
 
-import jp.co.indexweb.wallpapertransition.CrossfadeTransition;
-import jp.co.indexweb.wallpapertransition.Transition;
 import android.content.Context;
-import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Point;
 import android.graphics.Rect;
